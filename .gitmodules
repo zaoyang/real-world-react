@@ -1,0 +1,111 @@
+[submodule "apps/conduit"]
+	path = apps/conduit
+	url = git@github.com:gothinkster/react-redux-realworld-example-app.git
+[submodule "apps/react-hn"]
+	path = apps/react-hn
+	url = git@github.com:insin/react-hn.git
+[submodule "apps/github-battle-app"]
+	path = apps/github-battle-app
+	url = git@github.com:ReactTraining/react-fundamentals.git
+[submodule "apps/flatris"]
+	path = apps/flatris
+	url = git@github.com:skidding/flatris.git
+[submodule "apps/sound-redux"]
+	path = apps/sound-redux
+	url = git@github.com:andrewngu/sound-redux.git
+[submodule "apps/kitematic"]
+	path = apps/kitematic
+	url = git@github.com:docker/kitematic.git
+[submodule "apps/wp-calypso"]
+	path = apps/wp-calypso
+	url = git@github.com:Automattic/wp-calypso.git
+[submodule "apps/react-iTunes-search"]
+	path = apps/react-iTunes-search
+	url = git@github.com:LeoAJ/react-iTunes-search.git
+[submodule "apps/sprintly-ui"]
+	path = apps/sprintly-ui
+	url = git@github.com:sprintly/sprintly-ui.git
+[submodule "apps/grommet"]
+	path = apps/grommet
+	url = git@github.com:grommet/grommet.git
+[submodule "apps/dockunit-platform"]
+	path = apps/dockunit-platform
+	url = git@github.com:dockunit/platform.git
+[submodule "apps/retro-board"]
+	path = apps/retro-board
+	url = git@github.com:antoinejaussoin/retro-board.git
+[submodule "apps/spectacle"]
+	path = apps/spectacle
+	url = git@github.com:FormidableLabs/spectacle.git
+[submodule "apps/gatsby"]
+	path = apps/gatsby
+	url = git@github.com:gatsbyjs/gatsby.git
+[submodule "apps/react-news"]
+	path = apps/react-news
+	url = git@github.com:echenley/react-news.git
+[submodule "apps/mortgage"]
+	path = apps/mortgage
+	url = git@github.com:paulhoughton/mortgage.git
+[submodule "apps/favesound-redux"]
+	path = apps/favesound-redux
+	url = git@github.com:rwieruch/favesound-redux.git
+[submodule "apps/itsquiz-wall"]
+	path = apps/itsquiz-wall
+	url = git@github.com:WebbyLab/itsquiz-wall.git
+[submodule "apps/react-photo-feed"]
+	path = apps/react-photo-feed
+	url = git@github.com:lkazberova/react-photo-feed.git
+[submodule "apps/react-solitaire"]
+	path = apps/react-solitaire
+	url = git@github.com:pl12133/react-solitaire.git
+[submodule "apps/isomorphic500"]
+	path = apps/isomorphic500
+	url = git@github.com:gpbl/isomorphic500.git
+[submodule "apps/perseus"]
+	path = apps/perseus
+	url = git@github.com:Khan/perseus.git
+[submodule "apps/react-calculator"]
+	path = apps/react-calculator
+	url = git@github.com:benoitvallon/react-native-nw-react-calculator.git
+[submodule "apps/react-pomodoro"]
+	path = apps/react-pomodoro
+	url = git@github.com:afonsopacifer/react-pomodoro.git
+[submodule "apps/do"]
+	path = apps/do
+	url = git@github.com:1ven/do.git
+[submodule "apps/reddit-mobile"]
+	path = apps/reddit-mobile
+	url = git@github.com:reddit/reddit-mobile.git
+[submodule "apps/i-have-to-return-some-videotapes"]
+	path = apps/i-have-to-return-some-videotapes
+	url = git@github.com:stevenhauser/i-have-to-return-some-videotapes.git
+[submodule "apps/pdxlivebus"]
+	path = apps/pdxlivebus
+	url = git@github.com:browniefed/pdxlivebus.git
+[submodule "apps/react-yelp-clone"]
+	path = apps/react-yelp-clone
+	url = git@github.com:fullstackreact/react-yelp-clone.git
+[submodule "apps/bobonroastprofile"]
+	path = apps/bobonroastprofile
+	url = git@github.com:project-bobon/bobonroastprofile.git
+[submodule "apps/react-music"]
+	path = apps/react-music
+	url = git@github.com:FormidableLabs/react-music.git
+[submodule "apps/react-trello-board"]
+	path = apps/react-trello-board
+	url = git@github.com:web-pal/react-trello-board.git
+[submodule "apps/react-tetris"]
+	path = apps/react-tetris
+	url = git@github.com:chvin/react-tetris.git
+[submodule "apps/debugger.html"]
+	path = apps/debugger.html
+	url = git@github.com:devtools-html/debugger.html.git
+[submodule "apps/illustrated-algorithms"]
+	path = apps/illustrated-algorithms
+	url = git@github.com:skidding/illustrated-algorithms.git
+[submodule "apps/reactjs-tmdb-app"]
+	path = apps/reactjs-tmdb-app
+	url = git@github.com:SKempin/reactjs-tmdb-app.git
+[submodule "apps/lifequote"]
+	path = apps/lifequote
+	url = git@github.com:insin/lifequote.git
