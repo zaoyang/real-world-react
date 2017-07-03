@@ -109,3 +109,21 @@
 [submodule "apps/lifequote"]
 	path = apps/lifequote
 	url = git@github.com:insin/lifequote.git
+[submodule "apps/dribble-demo"]
+	path = apps/dribble-demo
+	url = git@github.com:afghl/dribble-demo.git
+[submodule "apps/refire-forum"]
+	path = apps/refire-forum
+	url = git@github.com:hoppula/refire-forum.git
+[submodule "apps/dripr-ui"]
+	path = apps/dripr-ui
+	url = git@github.com:DevAlien/dripr-ui.git
+[submodule "apps/invoice-frontend"]
+	path = apps/invoice-frontend
+	url = git@github.com:koodilehto/invoice-frontend.git
+[submodule "apps/torontojs.com"]
+	path = apps/torontojs.com
+	url = git@github.com:torontojs/torontojs.com.git
+[submodule "apps/guesstimate-app"]
+	path = apps/guesstimate-app
+	url = git@github.com:getguesstimate/guesstimate-app.git
